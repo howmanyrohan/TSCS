@@ -1,4 +1,4 @@
 ### Todo
 
-- [ ] Add Grass
-- [ ] Add Trees 
+- [x] Add Grass
+- [x] Add Trees 
